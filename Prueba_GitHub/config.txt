@@ -1,5 +1,0 @@
-# Configuración del proyecto
-KEY_SIZE = 256
-BLOCK_SIZE = 64
-
-Nueva linea en confg creada en al rama 
